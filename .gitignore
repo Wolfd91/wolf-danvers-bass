@@ -1,6 +1,9 @@
 # Ruwe media-dump — niet publiceren. Alleen geoptimaliseerde beelden in /assets gaan mee.
 Media/
 
+# IDE-bestanden (JetBrains)
+.idea/
+
 # OS-rommel
 .DS_Store
 Thumbs.db

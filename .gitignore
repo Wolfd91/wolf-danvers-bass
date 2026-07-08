@@ -1,0 +1,7 @@
+# Ruwe media-dump — niet publiceren. Alleen geoptimaliseerde beelden in /assets gaan mee.
+Media/
+
+# OS-rommel
+.DS_Store
+Thumbs.db
+desktop.ini
